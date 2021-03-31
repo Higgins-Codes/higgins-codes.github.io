@@ -21,8 +21,3 @@ console.out("Working with TritonHacks")
 - [x] reward somebodies curiosity
 
 I'm gonna be getting above and beyond alright.. just not yet. School calls for sacrifice.
-=======
-# Welcome to Ryan's Meadow
-
-Something somethjing yeah yoo
->>>>>>> b199bb80320d04d25547aeeff59621c7250a3dc0
