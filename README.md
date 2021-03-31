@@ -1,9 +1,12 @@
-<<<<<<< HEAD
 # Ryan's Meadow
 
 *Quick note: this site is still under generation XD*
 
 <img src="pictures/IMG_6212.jpg"></img>
+
+<img src="pictures/IMG_4665.jpg"></img>
+
+<img src="pictures/IMG_4738.jpg"></img>
 
 ## Obligatory intro
 
